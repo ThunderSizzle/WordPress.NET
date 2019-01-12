@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28407.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordPress.NET", "src\WordPress.NET\WordPress.NET.csproj", "{C0629033-7C49-4670-8D6F-1B5F665573F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AE9CD338-B97E-4B52-B016-F7166D3D3663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0629033-7C49-4670-8D6F-1B5F665573F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0629033-7C49-4670-8D6F-1B5F665573F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0629033-7C49-4670-8D6F-1B5F665573F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0629033-7C49-4670-8D6F-1B5F665573F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C0629033-7C49-4670-8D6F-1B5F665573F3} = {AE9CD338-B97E-4B52-B016-F7166D3D3663}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C76A79C-7FD6-417E-8861-F7D4194DD18D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+C:\Users\James\Development\WordPress.NET\src\WordPress.NET\WordPress.NET\obj\Debug\netcoreapp2.1\WordPress.NET.csproj.CoreCompileInputs.cache
+C:\Users\James\Development\WordPress.NET\src\WordPress.NET\WordPress.NET\obj\Debug\netcoreapp2.1\WordPress.NET.AssemblyInfoInputs.cache
+C:\Users\James\Development\WordPress.NET\src\WordPress.NET\WordPress.NET\obj\Debug\netcoreapp2.1\WordPress.NET.AssemblyInfo.cs

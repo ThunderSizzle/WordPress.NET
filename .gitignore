@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/src/.vs/WordPress.NET/v16
+/src/WordPress.NET/.vs/WordPress.NET
